@@ -1,0 +1,58 @@
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\GerarPerfil.csproj.AssemblyReference.cache
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\Interop.ZXAUTOLib.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\GerarPerfil.csproj.ResolveComReference.cache
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\GerarPerfil.csproj.CoreCompileInputs.cache
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\GerarPerfil.dll.config
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\GerarPerfil.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\GerarPerfil.pdb
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcCoreMgd.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcCui.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcDbMgd.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\acdbmgdbrep.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcDx.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcMgd.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcMr.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcSeamless.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcTcMgd.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcWindows.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AdUIMgd.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AdUiPalettes.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AdWindows.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\ZcWindows.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\ZdWindows.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\ZwDatabaseMgd.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\ZwDatabaseMgdBrep.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\ZwManaged.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcCoreMgd.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcCui.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcDbMgd.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\acdbmgdbrep.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcDx.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcMgd.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcMr.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcSeamless.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcTcMgd.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AcWindows.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AdUIMgd.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AdUiPalettes.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\bin\x64\Debug\AdWindows.xml
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\GerarPer.6DCF275E.Up2Date
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\GerarPerfil.dll
+G:\Drives compartilhados\OSM  compartilhado - Equipe\EQUIPE\WILLIAM\Programas\C#\ZwCad\Gerar Perfil - Completo\Source Code\GerarPerfil-GerarPerfil_2.0.0\GerarPerfil\obj\x64\Debug\GerarPerfil.pdb
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\GerarPerfil.dll.config
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\GerarPerfil.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\GerarPerfil.pdb
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\ZcWindows.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\ZdWindows.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\ZwDatabaseMgd.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\ZwDatabaseMgdBrep.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\ZwManaged.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\GerarPerfil.csproj.AssemblyReference.cache
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\Interop.ZXAUTOLib.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\GerarPerfil.csproj.ResolveComReference.cache
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\GerarPerfil.csproj.CoreCompileInputs.cache
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\GerarPer.6DCF275E.Up2Date
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\GerarPerfil.dll
+C:\Users\MICRO-04\Desktop\GerarPerfil\GerarPerfil\obj\x64\Debug\GerarPerfil.pdb
