@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System.Collections.Generic;
 using System.Linq;
 
 /*
@@ -77,7 +75,7 @@ namespace Classes
                     }
                     else if ((state == LineState.Uppering) && (curState == LineState.Lowering))
                     {
-                        lastData.Equipment = Equipment.SuctionCup;
+                        lastData.Equipment = Equipment.AirVentValve;
                     }
 
                     // There's no need to set the last Value as none, since it's already set

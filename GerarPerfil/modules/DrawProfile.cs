@@ -28,17 +28,19 @@ namespace GerarPerfil.modules
             TransWrapper trans = new TransWrapper(drawing);
 
                 trans.DrawLine(GetRefLines(profile));
-                
-                foreach (Data data in profile.Datas)
+            
+                for (int i = 0; i < profile.Datas.Count; i++)
                 {
                     double curHorizontalSpace = profile.BaseLine.StartPoint.Y;
+
+                    Data curData = profile.Datas[i];
 
                     foreach (var field in typeof(Data).GetProperties().Where(p => p.Name != "Position" && p.Name != "Equipment" && p.Name != "PlanPosition" && p.Name != "ProfilePosition"))
                     {
                         curHorizontalSpace -= profile.TextSet.TamanhoTexto * profile.HorizontalSpace;
 
-                        var value = field.GetValue(data);
-                        var entity = Utils.GetType.GetDBText(profile, value, new Point3d(data.ProfilePosition.X, curHorizontalSpace, data.ProfilePosition.Z));
+                        var value = field.GetValue(curData);
+                        var entity = Utils.GetType.GetDBText(profile, value, new Point3d(curData.ProfilePosition.X, curHorizontalSpace, curData.ProfilePosition.Z));
 
                         trans.blockRecord.AppendEntity(entity);
                         trans.transaction.AddNewlyCreatedDBObject(entity, true);

@@ -82,22 +82,14 @@ namespace GerarPerfil
                 HORIZONTAL_SPACE
             );
 
-
             if (geraPontos.StringResult == "Yes" || geraPontos.Status == PromptStatus.None)
             {
-                PromptResult keepLine = Utils.GetType.GetKeyWords("Erase original line?", new[] { "Yes", "No" }, false, "Yes");
-
-                if (keepLine.Status == PromptStatus.Error)
-                    return;
-
-                if (keepLine.StringResult == "Yes")
-                    profile.Invert.Erase(true);
-
                 profile.Invert = profile.GeraPontos();
 
                 trans.DrawPolyline(profile.Invert);
             }
 
+            trans.transaction.Commit();
             trans.Dispose();
             profile.PopulateData();
 

@@ -23,7 +23,7 @@ namespace GerarPerfil.modules
             Overwrite
         }
 
-        private string resourcesRoot;
+        private readonly string resourcesRoot;
         private const string RESOURCES_FOLDER = "resources";
 
         public DrawEquipments()
@@ -84,7 +84,7 @@ namespace GerarPerfil.modules
             TransWrapper trans = new TransWrapper(drawing);
 
             int dischargeCounter = 0;
-            int suctionCupCounter = 0;
+            int airventCounter = 0;
             foreach (Data data in datas)
             {
                 if (data.Equipment != Equipment.None)
@@ -95,10 +95,10 @@ namespace GerarPerfil.modules
                     {
                         db.ReadDwgFile(path, FileOpenMode.OpenForReadAndReadShare, false, null);
 
-                        if (data.Equipment == Equipment.SuctionCup)
+                        if (data.Equipment == Equipment.AirVentValve)
                         {
-                            suctionCupCounter++;
-                            ModifyTextBlock(db, " " + suctionCupCounter.ToString(), TextPos.Suffix);
+                            airventCounter++;
+                            ModifyTextBlock(db, " " + airventCounter.ToString(), TextPos.Suffix);
                         }
                         else if (data.Equipment == Equipment.Discharge)
                         {
@@ -109,9 +109,14 @@ namespace GerarPerfil.modules
                         ObjectId block = trans.drawing.Database.Insert(data.Equipment.ToString() + Guid.NewGuid().ToString("N"), db, false);
 
                         if (place == Place.Profile)
+                        {
                             trans.AddBlock(data.ProfilePosition, block);
+                        }
                         else
+                        {
                             trans.AddBlock(data.PlanPosition, block);
+
+                        }
                     }
                 }
 

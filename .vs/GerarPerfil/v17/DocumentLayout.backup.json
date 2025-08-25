@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|c:\\users\\micro-04\\desktop\\gerarperfil\\gerarperfil\\profile\\profile.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|solutionrelative:gerarperfil\\profile\\profile.extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|c:\\users\\micro-04\\desktop\\gerarperfil\\gerarperfil\\modules\\drawprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|solutionrelative:gerarperfil\\modules\\drawprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\gerarperfil\\modules\\drawequipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|solutionrelative:gerarperfil\\modules\\drawequipments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\gerarperfil\\app\\gerarperfil\\gerarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|solutionrelative:gerarperfil\\app\\gerarperfil\\gerarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|c:\\users\\micro-04\\desktop\\gerarperfil\\gerarperfil\\app\\gerarperfil\\gerarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|solutionrelative:gerarperfil\\app\\gerarperfil\\gerarperfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\gerarperfil\\profile\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6937C5-6F3B-41BF-B687-C88D0BF39C24}|GerarPerfil\\GerarPerfil.csproj|solutionrelative:gerarperfil\\profile\\profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,19 +36,32 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "Profile.cs",
+              "DocumentMoniker": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\Profile\\Profile.cs",
+              "RelativeDocumentMoniker": "GerarPerfil\\Profile\\Profile.cs",
+              "ToolTip": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\Profile\\Profile.cs",
+              "RelativeToolTip": "GerarPerfil\\Profile\\Profile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T11:49:50.602Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DrawProfile.cs",
               "DocumentMoniker": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\modules\\DrawProfile.cs",
               "RelativeDocumentMoniker": "GerarPerfil\\modules\\DrawProfile.cs",
               "ToolTip": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\modules\\DrawProfile.cs",
               "RelativeToolTip": "GerarPerfil\\modules\\DrawProfile.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAC4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAACLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:14:40.285Z",
+              "WhenOpened": "2025-08-25T18:59:10.071Z",
               "EditorCaption": ""
             },
             {
@@ -55,22 +72,21 @@
               "RelativeDocumentMoniker": "GerarPerfil\\app\\gerarPerfil\\GerarPerfil.cs",
               "ToolTip": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\app\\gerarPerfil\\GerarPerfil.cs",
               "RelativeToolTip": "GerarPerfil\\app\\gerarPerfil\\GerarPerfil.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAwwHIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-01T14:10:34.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-25T16:26:27.589Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DrawEquipments.cs",
-              "DocumentMoniker": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\modules\\DrawEquipments.cs",
-              "RelativeDocumentMoniker": "GerarPerfil\\modules\\DrawEquipments.cs",
-              "ToolTip": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\modules\\DrawEquipments.cs",
-              "RelativeToolTip": "GerarPerfil\\modules\\DrawEquipments.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDUAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Profile.Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\Profile\\Profile.Extensions.cs",
+              "RelativeDocumentMoniker": "GerarPerfil\\Profile\\Profile.Extensions.cs",
+              "ToolTip": "C:\\Users\\MICRO-04\\Desktop\\GerarPerfil\\GerarPerfil\\Profile\\Profile.Extensions.cs",
+              "RelativeToolTip": "GerarPerfil\\Profile\\Profile.Extensions.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T15:02:35.608Z",
+              "WhenOpened": "2025-08-25T15:02:35.363Z",
               "EditorCaption": ""
             }
           ]

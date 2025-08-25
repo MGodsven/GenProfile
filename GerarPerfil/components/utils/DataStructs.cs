@@ -23,7 +23,7 @@ namespace Utils
     public enum Equipment
     {
         Discharge,
-        SuctionCup,
+        AirVentValve,
         None,
     }
 

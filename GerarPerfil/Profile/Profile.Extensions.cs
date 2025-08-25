@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.IO;
 using System.Linq;
-using GerarPerfil;
 using Utils;
 
 /*
@@ -26,6 +23,12 @@ namespace Classes
             Uppering,
             None,
         }
+    
+        // I just took these numbers from a test that i did, I'll calculate a better number for these two
+        // We gotta remember that, there's isn't such a thing is two same station. and since this is based on Math.Round with 2 decimal number, 
+        // We just need to know when we have 0 for both cases
+        const double MAX_LEFT_DIST_TOLERANCE = 0.889;
+        const double MAX_RIGHT_DIST_TOLERANCE_OFF = 0.161;
 
         public Polyline GeraPontos()
         {
@@ -40,7 +43,17 @@ namespace Classes
                 for (double currentDistance = Invert.StartPoint.X; currentDistance <= Invert.EndPoint.X; currentDistance += SeparadorEstacas)
                 {
                     while (i < Invert.NumberOfVertices && Invert.GetPoint2dAt(i).X < currentDistance)
-                        plDraw.Add(Invert.GetPoint2dAt(i++));
+                    {
+                        // This double check is done since such small distance is usually on mistake. That won't cover all cases
+                        // i.g the user might use a scale that is ridiculously small.
+                        double dis = currentDistance - Invert.GetPoint2dAt(i).X;
+
+                        // Need to check for the right side as well
+                        if (dis > MAX_LEFT_DIST_TOLERANCE && dis < SeparadorEstacas - MAX_RIGHT_DIST_TOLERANCE_OFF)
+                            plDraw.Add(Invert.GetPoint2dAt(i));
+
+                        i++;
+                    }
 
                     line.StartPoint = new Point3d(currentDistance, Invert.StartPoint.Y, 0);
                     line.EndPoint = new Point3d(currentDistance, Invert.StartPoint.Y + 1, 0);
@@ -65,11 +78,11 @@ namespace Classes
         {
             string textString;
 
-            double distanciaCur = GetGradualDistance(invertIndex);
+            double curDist = Invert.GetPoint3dAt(invertIndex).X - Invert.GetPoint3dAt(0).X;
 
             if (SeparadorEstacas > 0)
-                textString = ((int)(distanciaCur / SeparadorEstacas)).ToString() +
-                                  ((int)(distanciaCur % SeparadorEstacas) != 0 ? " + " + ((int)(distanciaCur % SeparadorEstacas)).ToString() : "");
+                textString = ((int)(curDist / SeparadorEstacas)).ToString() +
+                                  ((int)(curDist % SeparadorEstacas) != 0 ? " + " + ((int)(Math.Round(curDist, 2) % SeparadorEstacas)).ToString() : "");
             else
                 textString = invertIndex.ToString();
 
@@ -107,10 +120,7 @@ namespace Classes
         {
             return Math.Round(Datas[index].TerrainLevel - Datas[index].InvertLevel, 2);
         }
-        public double GetGradualDistance(int index)
-        {
-            return Math.Round((Invert.GetPoint3dAt(index).X - Invert.GetPoint3dAt(0).X), 2);
-        }
+
         public double GetSlope(Data firstData, Data lastData)
         {
             return Math.Round(
