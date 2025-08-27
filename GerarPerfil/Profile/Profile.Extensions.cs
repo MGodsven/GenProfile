@@ -27,8 +27,7 @@ namespace Classes
         // I just took these numbers from a test that i did, I'll calculate a better number for these two
         // We gotta remember that, there's isn't such a thing is two same station. and since this is based on Math.Round with 2 decimal number, 
         // We just need to know when we have 0 for both cases
-        const double MAX_LEFT_DIST_TOLERANCE = 0.889;
-        const double MAX_RIGHT_DIST_TOLERANCE_OFF = 0.161;
+        const double MAX_DIST_TOLERANCE = 0.8903;
 
         public Polyline GeraPontos()
         {
@@ -49,7 +48,7 @@ namespace Classes
                         double dis = currentDistance - Invert.GetPoint2dAt(i).X;
 
                         // Need to check for the right side as well
-                        if (dis > MAX_LEFT_DIST_TOLERANCE && dis < SeparadorEstacas - MAX_RIGHT_DIST_TOLERANCE_OFF)
+                        if (dis > MAX_DIST_TOLERANCE && dis < SeparadorEstacas - MAX_DIST_TOLERANCE)
                             plDraw.Add(Invert.GetPoint2dAt(i));
 
                         i++;

@@ -23,23 +23,12 @@ namespace Classes
         public Document Document { get; }
         public Editor Editor { get; }
         public Database Database { get; }
-        static Drawing _instance;
 
-        private Drawing(Document currentDocument)
+        public Drawing()
         {
-            Document = currentDocument;
-            Editor = currentDocument.Editor;
-            Database = currentDocument.Database;
-        }
-
-        public static Drawing GetInstance()
-        {
-            if (_instance == null)
-            {
-                _instance = new Drawing(Application.DocumentManager.CurrentDocument);
-            }
-
-            return _instance;
+            Document = Application.DocumentManager.CurrentDocument;
+            Editor = Document.Editor;
+            Database = Document.Database;
         }
     }
 }

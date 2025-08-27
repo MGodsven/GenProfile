@@ -26,8 +26,7 @@ namespace GerarPerfil
         [CommandMethod("GerarPerfil")]
         public static void Main()
         {
-            Drawing currentDrawing = Drawing.GetInstance();
-            
+            Drawing currentDrawing = new Drawing();
             
             PromptEntityResult giRes = Utils.GetType.SelectPolyline("Select the profile invert polyline:");
 
